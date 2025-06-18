@@ -3,6 +3,7 @@
 BadMorning is a Flutter app that shows you every morning how today’s weather compares to past years. It helps you spot weather trends easily so you’re always a step ahead.
 
 ---
+<img src="bm_logo.png" alt="Logo" width="400" />
 
 ## What’s it about?
 
